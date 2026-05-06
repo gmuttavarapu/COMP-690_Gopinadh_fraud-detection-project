@@ -11,3 +11,6 @@ from sklearn.metrics import confusion_matrix, classification_report, roc_auc_sco
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout
 from tensorflow.keras.optimizers import Adam
+
+path = "data/creditcard.csv"
+df = pd.read_csv(path)
