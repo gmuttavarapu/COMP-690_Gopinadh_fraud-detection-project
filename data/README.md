@@ -1,16 +1,19 @@
-## Dataset Instructions
+# Dataset Instructions
 
 The dataset is too large to upload to GitHub.
 
-### Download Steps:
+## Download Steps
 
-1. Go to:
-2. https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+1. Go to this Kaggle link:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-4. Download the dataset
+2. Download the dataset.
 
-5. Place the file in this folder:
-data/creditcard.csv
+3. Extract the ZIP file.
 
-Make sure the file path is:
+4. Copy `creditcard.csv` into the `data` folder.
+
+Final path should be:
+
+```text
 data/creditcard.csv
